@@ -14,7 +14,6 @@
 # a translation table used to convert things you say into things the
 # computer says back, e.g. "I am" --> "you are"
 
-
 from nltk.chat.util import Chat, reflections
 
 
