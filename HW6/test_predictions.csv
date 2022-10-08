@@ -1,0 +1,11 @@
+test document,predicted class,actual class label
+well crafted and looks very nice,positive,positive
+i love it and it looks great in the kitchen,positive,positive
+i would highly recommen this item,positive,positive
+these suck,positive,negative
+noisy,negative,negative
+pricey,negative,negative
+not worth the price,positive,negative
+good quality and print is nice,positive,positive
+does not do a very good job,negative,negative
+awesome bag,positive,positive
